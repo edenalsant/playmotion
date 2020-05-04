@@ -1,0 +1,36 @@
+
+a.link {
+    display: block;
+    background-color: white;
+    
+    width: 150px;
+	
+    text-decoration: none;
+    text-align: center;
+
+	font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.5em;
+    
+	padding: 6px 4px;
+    margin: 4px;
+
+    border: 2px ridge rgba(0,0,0,0.53);
+    border-radius: 25px;
+}
+
+a:hover.link
+{
+    background-image: linear-gradient(to right, #dd5e89, #f7bb97);
+    color:transparent;
+    background-clip: text;
+    border: 2px solid #ffffff;
+    border-radius: 25px;
+}
+
+.gradient {
+
+    background-image: linear-gradient(to right, #dd5e89, #f7bb97);
+    color:transparent;
+    background-clip: text;
+}
+

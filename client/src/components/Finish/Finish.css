@@ -1,0 +1,25 @@
+.finish-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    height: 100vh;
+}
+
+.finish-title {
+    margin-top: 35vh;
+}
+
+a.finish-link {
+    
+}
+
+a:link.finish-link {
+    color: black;
+  }
+  
+  /* visited link */
+  a:visited.finish-link {
+    color: black;
+  }
+  
